@@ -14,3 +14,5 @@ The script 'gonzalez_burgos_gaussian_fit.m' loads the 'example_gaussian.csv' and
 <br>
 # Citation
 To use this software, please cite: 
+Gonzalez-Burgos I, Bainier M, Gross S, Schoenenberger P, Ochoa JA, Valencia M, Redondo RL. Glutamatergic and GABAergic Receptor Modulation Present Unique Electrophysiological Fingerprints in a Concentration-Dependent and Region-Specific Manner. eNeuro. 2023 Apr 20;10(4):ENEURO.0406-22.2023. doi: 10.1523/ENEURO.0406-22.2023. PMID: 36931729; PMCID: PMC10124153.
+https://www.eneuro.org/content/10/4/ENEURO.0406-22.2023
